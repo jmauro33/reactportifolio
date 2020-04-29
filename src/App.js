@@ -8,6 +8,7 @@ import {
 import About from "./components/about.js";
 import Navbar from "./components/navbar.js";
 import Projects from "./components/projects.js";
+import Footer from "./components/footer.js";
 import './App.css';
 
 function App() {
@@ -27,7 +28,7 @@ function App() {
               <About />
             </Route>
           </Switch>
-     
+        <Footer/>
       </Router>
     
   );
