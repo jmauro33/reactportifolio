@@ -10,7 +10,7 @@ return(
                   <p>Jonathan Mauro</p>
                 </div>
                 <div class="col-sm">
-                  <p>Footer</p>
+                  <p></p>
                 </div>
                 <div class="col-sm">
                   <p>Copyright 2020</p>
