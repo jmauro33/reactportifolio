@@ -11,14 +11,12 @@ function Projects(props) {
        <div class="col mb-4"></div>
        <Card title = "Fitness-Tracker" description = "Fitness app to track fitness workouts implementing Mongo-DB " link = "https://jonathanfitnesstracker.herokuapp.com/?id=5e9736d3dcba090017a5f3ee"/>
        <div class="col mb-4"></div>
-       <Card title = "" description = "description" link = ""/>
+       <Card title = "bookapp" description = "book reviewer using react, mongoDb and Node " link = ""/>
        <div class="col mb-4"></div>
        <Card title = "project" description = "description" link = ""/>
           </div>
         </div>             
           
-  
-                    
   );
 }
 
