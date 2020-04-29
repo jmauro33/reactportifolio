@@ -21,6 +21,14 @@ function About(props) {
                     </div>
                 </div>
             </div>
+
+            
+
+
+
+
+
+
          </div>
 
    
