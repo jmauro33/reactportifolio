@@ -21,9 +21,9 @@ function Projects(props) {
        <div class="col mb-4"></div>
        <Card title = "Drinky-Links" description = "Group Project using HTML, CSS, JS and APIs to creat a drink recipie app" link = ""/>
        <div class="col mb-4"></div>
-       <Card title = "Book Reviwer" description = "Upcoming assignment using React, Express, Mongo and Node" link = ""/>
+       <Card title = "Book Reviwer" description = "Upcoming Book Reviewing app assignment that will implement React, Express, Mongo and Node" link = ""/>
        <div class="col mb-4"></div>
-       <Card title = "Final project" description = "Upcoming Final Project will be a project using everything that i learned in the class" link = ""/>
+       <Card title = "Final project" description = "Upcoming Final Project will be a project using everything that I learned throughout the past several months" link = ""/>
           </div>
       </div>             
           
