@@ -10,7 +10,7 @@ import Navbar from "./components/navbar.js";
 import Projects from "./components/projects.js";
 import Footer from "./components/footer.js";
 import './App.css';
-
+import "./index.css";
 function App() {
   return (
   

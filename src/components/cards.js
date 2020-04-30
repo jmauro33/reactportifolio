@@ -7,7 +7,7 @@ import React from 'react';
 function Cards(props) {
 
 return(
-<div className="card" style={{width:"350px",height:"350px"}}>
+<div className="card">
                                      
 <div className="card-body">
     <br></br>

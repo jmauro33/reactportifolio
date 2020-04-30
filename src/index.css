@@ -141,6 +141,11 @@ text-align: center;
 
 .card {
 
-
-  width: 205px;
+ 
+  border-style: dotted;
+  border-color: black;
+}
+.card-body {
+   width:350px;
+  height:350px;
 }
