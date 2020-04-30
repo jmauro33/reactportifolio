@@ -4,9 +4,9 @@ function About(props) {
     return (
         <div>
 
-            <div class="topcontainer">
-                <div class="row">
-                    <div class="col-sm-12">
+            <div className="topcontainer">
+                <div className="row">
+                    <div className="col-sm-12">
                         <p>About Me</p>
 
                         <hr />
