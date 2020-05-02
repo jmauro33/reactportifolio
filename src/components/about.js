@@ -26,9 +26,6 @@ function About(props) {
 
 
 
-
-
-
          </div>
 
    
