@@ -141,7 +141,7 @@ text-align: center;
 
 .card {
 
- 
+  border-radius:25px;
   border-style: dotted;
   border-color: black;
 }
