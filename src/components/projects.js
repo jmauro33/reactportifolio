@@ -15,8 +15,8 @@ function Projects(props) {
       </div>
       <br></br>
       <div className="card-deck">
-      <Card title = "Book Reviwer" description = "Upcoming Book Reviewing app assignment that will implement React, Express, Mongo and Node" link = ""/>  
-      <Card title = "Final project" description = "Upcoming Final Project will be a project using everything that I learned throughout the past several months" link = ""/>
+      <Card title = "Book Reviwer" description = "Upcoming Book Reviewing app assignment that will implement React, Express, Mongo and Node" link = "https://bookreviers.herokuapp.com/"/>  
+      <Card title = "Final project" description = "Upcoming Final Project will be a project using everything that I learned throughout the past several months" link = "https://jonathanfinalproject.herokuapp.com/"/>
       </div>
     </div>             
           
